@@ -1,0 +1,30 @@
+:root {
+  --color-primary: #B45309;
+  --color-primary-dark: #78350F;
+  --color-primary-light: #ecd4c2;
+  --color-secondary: #994708;
+  --color-accent: #F97316;
+  --color-background: #FFFFFF;
+  --color-background-alt: #B45309;
+  --color-surface: #F4F6F8;
+  --color-text: #1A1A2E;
+  --color-text-light: #4A5568;
+  --color-text-on-dark: #FFFFFF;
+  --color-border: #E5E7EB;
+  --font-heading: 'Cabin', sans-serif;
+  --font-body: 'Open Sans', sans-serif;
+  --font-heading-weight: 700;
+  --font-body-weight: 400;
+  --heading-style: normal;
+  --type-scale: 1.25;
+  --radius: 6px;
+  --radius-button: 6px;
+  --radius-card: 10px;
+  --section-padding: 4.5rem;
+  --spacing-scale: 1;
+  --heading-scale: 1.2;
+  --shadow-intensity: 0.75;
+  --anim-distance: 24px;
+  --anim-duration: 0.6s;
+  --anim-stagger: 80ms;
+}

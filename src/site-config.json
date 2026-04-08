@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Next Frame Construction",
+    "phone": "18183920666",
+    "category": "handyman",
+    "city": "Bakersfield",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "handyman-trust-navy",
+      "categoryGroup": "handyman",
+      "name": "Trust Navy",
+      "recipeFile": "handyman/trust-navy.astro",
+      "colors": {
+        "primary": "#B45309",
+        "primaryDark": "#78350F",
+        "primaryLight": "#ecd4c2",
+        "secondary": "#994708",
+        "accent": "#F97316",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#B45309",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Cabin",
+        "headingWeight": "700",
+        "bodyFont": "Open Sans",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "handyman/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Bakersfield Handyman You Can Trust",
+      "heroSubline": "Reliable home repairs and improvements. Serving Bakersfield and Kern County with quality craftsmanship.",
+      "aboutTitle": "Your Trusted Bakersfield Handyman",
+      "aboutText": [
+        "Next Frame Construction started with a simple goal: to provide Bakersfield residents with reliable, high-quality handyman services. Tired of seeing neighbors struggle with unfinished projects and unreliable contractors, we built a business on honesty, integrity, and a commitment to doing the job right the first time.",
+        "We approach every project, big or small, with meticulous attention to detail. From patching drywall to installing new fixtures, we treat your home as if it were our own. We believe in clear communication, transparent pricing, and exceeding your expectations.",
+        "We're proud to be a part of the Bakersfield community. We actively support local initiatives and strive to give back whenever possible. Choosing Next Frame Construction means supporting a local business that cares about its neighbors."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Professionals",
+          "description": "Our team is comprised of skilled and experienced handymen with a proven track record of quality workmanship."
+        },
+        {
+          "title": "Reliable & On-Time",
+          "description": "We understand your time is valuable. We arrive on schedule and complete projects efficiently."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees or surprises. We provide upfront, honest estimates for all our services."
+        },
+        {
+          "title": "Satisfaction Guaranteed",
+          "description": "We're not happy until you are. We stand behind our work and ensure your complete satisfaction."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Estimate Today!",
+      "ctaSubline": "Let Next Frame Construction take care of your home repair needs. Contact us for a free quote."
+    },
+    "services": [
+      {
+        "slug": "drywall-repair",
+        "name": "Drywall Repair",
+        "shortDescription": "Seamless drywall repair to restore your walls and ceilings.",
+        "description": "Bakersfield's dry climate can wreak havoc on drywall, leading to cracks, holes, and water damage. Next Frame Construction offers comprehensive drywall repair services to address any issue. Whether it's a small nail hole patch or a large section replacement, we have the expertise to restore your walls and ceilings to their original condition. We carefully match textures and paints to ensure a seamless finish. \n\nOur drywall repair process includes assessing the damage, preparing the area by removing loose debris, applying joint compound in multiple thin layers, sanding smooth, and priming and painting to match the existing color. We use high-quality materials to ensure a durable and long-lasting repair. We understand that dust control is important, so we take measures to minimize mess and clean up thoroughly after each job.\n\nFrom settling cracks common in older Bakersfield homes in Oleander to accidental damage in newer Seven Oaks developments, we've seen it all. Don't let damaged drywall detract from the beauty and value of your home. Contact Next Frame Construction for expert drywall repair services.",
+        "process": [
+          "Step 1: Assess the damage and provide a detailed estimate.",
+          "Step 2: Prepare the area by removing loose debris and protecting surrounding surfaces.",
+          "Step 3: Apply joint compound in multiple thin layers, allowing each layer to dry completely.",
+          "Step 4: Sand the repaired area smooth and prime and paint to match the existing color."
+        ],
+        "benefits": [
+          "Restores the appearance of your walls and ceilings",
+          "Prevents further damage from moisture and pests",
+          "Increases the value of your home",
+          "Provides a smooth and even surface for painting"
+        ],
+        "faq": [
+          {
+            "question": "How long does drywall repair take?",
+            "answer": "The duration depends on the size and complexity of the repair. Small patches can be completed in a few hours, while larger repairs may take a day or two."
+          },
+          {
+            "question": "Will the repaired area match my existing wall texture?",
+            "answer": "Yes, we carefully match textures to ensure a seamless blend with your existing walls. We have experience with a variety of textures common in Bakersfield homes."
+          },
+          {
+            "question": "Do you offer painting services after drywall repair?",
+            "answer": "Yes, we provide complete painting services to ensure a consistent and professional finish. We can match any paint color."
+          }
+        ]
+      },
+      {
+        "slug": "plumbing-repair",
+        "name": "Plumbing Repair",
+        "shortDescription": "Fixing leaks, drips, and other plumbing issues efficiently.",
+        "description": "From leaky faucets to clogged drains, plumbing problems can be a major inconvenience and cause significant damage if left unaddressed. Next Frame Construction provides prompt and reliable plumbing repair services throughout Bakersfield. We handle a wide range of plumbing issues, including fixing leaks, repairing or replacing faucets and toilets, clearing clogged drains, and addressing minor pipe repairs.\n\nWe understand that plumbing emergencies can happen at any time, so we offer flexible scheduling to accommodate your needs. Our experienced plumbers are equipped with the tools and expertise to diagnose and resolve plumbing problems quickly and efficiently. We use high-quality parts and materials to ensure lasting repairs. We are familiar with the types of plumbing common in Bakersfield homes, from older copper pipes in the Oleander neighborhood to newer PEX systems in Seven Oaks.\n\nDon't let a plumbing problem disrupt your life or damage your home. Contact Next Frame Construction for expert plumbing repair services. We'll get your plumbing system back in top shape in no time.",
+        "process": [
+          "Step 1: Diagnose the plumbing issue and provide a detailed explanation of the repair options.",
+          "Step 2: Provide upfront pricing.",
+          "Step 3: Complete the repair using high-quality parts and materials.",
+          "Step 4: Test the repair to ensure it is functioning properly and clean up the work area."
+        ],
+        "benefits": [
+          "Stops leaks and prevents water damage",
+          "Restores proper water flow and drainage",
+          "Extends the life of your plumbing system",
+          "Reduces water waste and lowers your water bill"
+        ],
+        "faq": [
+          {
+            "question": "Do you handle emergency plumbing repairs?",
+            "answer": "Yes, we offer flexible scheduling and can often accommodate emergency plumbing repairs. Please call us to discuss your situation."
+          },
+          {
+            "question": "How much will the plumbing repair cost?",
+            "answer": "The cost of plumbing repair varies depending on the nature and complexity of the problem. We provide upfront pricing before starting any work."
+          },
+          {
+            "question": "Are your plumbers licensed and insured?",
+            "answer": "While we offer handyman services, some plumbing repairs may require a licensed plumber. We can connect you with qualified professionals if needed."
+          }
+        ]
+      },
+      {
+        "slug": "electrical-repair",
+        "name": "Electrical Repair",
+        "shortDescription": "Safe and reliable electrical repairs for your home.",
+        "description": "Electrical issues can be dangerous and should always be handled by qualified professionals. Next Frame Construction offers a range of electrical repair services in Bakersfield to ensure the safety and functionality of your home's electrical system. We can fix faulty outlets and switches, repair or replace light fixtures, troubleshoot electrical problems, and install ceiling fans. \n\nWe prioritize safety and adhere to all electrical codes and regulations. We use high-quality materials and tools to ensure lasting repairs. We understand the electrical systems in Bakersfield homes, from older wiring in the Westchester area to modern setups in newer developments. We recommend upgrading older wiring to ensure safety and prevent fire hazards. \n\nIf you're experiencing electrical problems, don't take risks. Contact Next Frame Construction for safe and reliable electrical repair services. We'll get your electrical system back in top shape so you can rest easy.",
+        "process": [
+          "Step 1: Diagnose the electrical problem and provide a detailed explanation of the repair options.",
+          "Step 2: Provide upfront pricing.",
+          "Step 3: Complete the repair using high-quality parts and materials.",
+          "Step 4: Test the repair to ensure it is functioning properly and clean up the work area."
+        ],
+        "benefits": [
+          "Ensures the safety of your home and family",
+          "Restores power to outlets and appliances",
+          "Improves the functionality of your electrical system",
+          "Prevents electrical fires and other hazards"
+        ],
+        "faq": [
+          {
+            "question": "Do you handle emergency electrical repairs?",
+            "answer": "For safety reasons, complex electrical work should be done by a licensed electrician. Please call us, and we can recommend a trusted electrician in Bakersfield."
+          },
+          {
+            "question": "How much will the electrical repair cost?",
+            "answer": "The cost of electrical repair varies depending on the nature and complexity of the problem. We provide upfront pricing before starting any work. For complex work, we will connect you with a qualified electrician who will provide upfront pricing."
+          },
+          {
+            "question": "Are your electricians licensed and insured?",
+            "answer": "We work with licensed and insured electricians for complex electrical work. We can provide their credentials upon request."
+          }
+        ]
+      },
+      {
+        "slug": "painting",
+        "name": "Painting Services",
+        "shortDescription": "Interior and exterior painting to refresh your home's look.",
+        "description": "A fresh coat of paint can transform the look and feel of your home, both inside and out. Next Frame Construction offers professional painting services in Bakersfield to help you achieve the perfect look. We handle interior and exterior painting projects, including surface preparation, priming, painting, and cleanup. \n\nWe use high-quality paints and materials to ensure a durable and long-lasting finish. We are experienced in painting a variety of surfaces, including drywall, wood, stucco, and siding. We understand the challenges of painting in Bakersfield's climate, including the extreme summer heat and the potential for fading and cracking. We properly prepare surfaces to withstand these conditions. We have experience painting homes in the older neighborhoods of Bakersfield and newer developments. \n\nWhether you want to update your interior color scheme or refresh your home's exterior, Next Frame Construction can help. Contact us for a free estimate and let us bring your vision to life.",
+        "process": [
+          "Step 1: Prepare the surfaces by cleaning, sanding, and priming.",
+          "Step 2: Apply high-quality paint in multiple coats for a durable and even finish.",
+          "Step 3: Protect furniture and flooring during the painting process.",
+          "Step 4: Clean up the work area and dispose of all waste materials."
+        ],
+        "benefits": [
+          "Enhances the appearance of your home",
+          "Protects surfaces from the elements",
+          "Increases the value of your home",
+          "Creates a fresh and inviting atmosphere"
+        ],
+        "faq": [
+          {
+            "question": "How long does a painting project take?",
+            "answer": "The duration depends on the size and complexity of the project. We provide a timeline estimate before starting any work."
+          },
+          {
+            "question": "What type of paint do you use?",
+            "answer": "We use high-quality paints from trusted brands. We can help you choose the right paint for your specific needs and preferences."
+          },
+          {
+            "question": "Do you offer color consultation services?",
+            "answer": "Yes, we can provide color consultation services to help you choose the perfect colors for your home."
+          }
+        ]
+      },
+      {
+        "slug": "carpentry",
+        "name": "Carpentry Services",
+        "shortDescription": "Custom carpentry solutions for your home improvement needs.",
+        "description": "Next Frame Construction offers a range of carpentry services in Bakersfield to enhance the beauty and functionality of your home. We handle everything from small repairs to custom carpentry projects. We can repair or replace damaged trim, install doors and windows, build custom shelves and cabinets, and create outdoor structures such as decks and fences. \n\nWe use high-quality materials and craftsmanship to ensure lasting results. We understand the unique carpentry needs of Bakersfield homes, from the older wood framing in some neighborhoods to the newer construction techniques in others. We take pride in our attention to detail and commitment to customer satisfaction. \n\nWhether you need a simple repair or a custom carpentry project, Next Frame Construction can help. Contact us for a free estimate and let us bring your vision to life.",
+        "process": [
+          "Step 1: Discuss your carpentry needs and provide a detailed estimate.",
+          "Step 2: Select the appropriate materials for your project.",
+          "Step 3: Build or repair the carpentry structure with precision and care.",
+          "Step 4: Ensure your complete satisfaction with the finished product."
+        ],
+        "benefits": [
+          "Enhances the beauty and functionality of your home",
+          "Increases the value of your home",
+          "Provides custom solutions to meet your specific needs",
+          "Adds character and charm to your living space"
+        ],
+        "faq": [
+          {
+            "question": "Do you build custom cabinets?",
+            "answer": "Yes, we can build custom cabinets to your exact specifications. We'll work with you to design the perfect cabinets for your kitchen, bathroom, or any other space in your home."
+          },
+          {
+            "question": "Do you install doors and windows?",
+            "answer": "Yes, we install doors and windows of all types. We can help you choose the right doors and windows for your home and install them properly to ensure energy efficiency and security."
+          },
+          {
+            "question": "What types of wood do you use?",
+            "answer": "We use a variety of wood types, depending on the specific project. We can help you choose the right wood for your needs, considering factors such as durability, appearance, and cost."
+          }
+        ]
+      },
+      {
+        "slug": "fence-repair",
+        "name": "Fence Repair",
+        "shortDescription": "Protect your property with our reliable fence repair services.",
+        "description": "Bakersfield's hot summers and occasional strong winds can take a toll on fences. Next Frame Construction provides fence repair services to keep your property secure and looking its best. We repair wood, vinyl, and chain-link fences, addressing issues such as broken posts, damaged panels, and sagging gates. \n\nWe use high-quality materials and techniques to ensure lasting repairs. We understand the different types of fences common in Bakersfield neighborhoods. We can provide solutions to match the specific style and needs of your fence. We take pride in our prompt and reliable service. \n\nDon't let a damaged fence detract from the curb appeal and security of your home. Contact Next Frame Construction for expert fence repair services. We'll get your fence back in top shape so you can rest easy.",
+        "process": [
+          "Step 1: Assess the damage to your fence and provide a detailed estimate.",
+          "Step 2: Remove any damaged or rotted sections of the fence.",
+          "Step 3: Replace damaged posts, panels, or gates with new materials.",
+          "Step 4: Ensure the fence is properly aligned and secured for long-lasting stability."
+        ],
+        "benefits": [
+          "Restores the security and privacy of your property",
+          "Enhances the curb appeal of your home",
+          "Prevents further damage to your fence",
+          "Extends the life of your fence"
+        ],
+        "faq": [
+          {
+            "question": "What types of fences do you repair?",
+            "answer": "We repair wood, vinyl, and chain-link fences. We have the expertise to handle a wide range of fence repair needs."
+          },
+          {
+            "question": "How long will the fence repair take?",
+            "answer": "The duration depends on the extent of the damage. We provide a timeline estimate before starting any work."
+          },
+          {
+            "question": "Do you offer fence replacement services?",
+            "answer": "Yes, if the damage to your fence is too extensive for repair, we can provide complete fence replacement services."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Bakersfield",
+        "slug": "bakersfield-ca",
+        "state": "CA",
+        "content": "Next Frame Construction is proud to offer our comprehensive handyman services to the residents and businesses of Bakersfield, California. From minor repairs and installations to larger remodeling projects, our skilled team is equipped to handle a wide range of tasks with precision and professionalism. We are committed to providing exceptional workmanship and reliable service to ensure your complete satisfaction.\n\nAs a locally owned and operated company, we understand the unique needs of the Bakersfield community. We prioritize clear communication, transparent pricing, and timely completion of all projects. Whether you need help with drywall repair, painting, carpentry, or any other home improvement task, Next Frame Construction is here to help you maintain and enhance your property.",
+        "localContext": "Bakersfield is a vibrant city in the southern San Joaquin Valley, known for its agricultural heritage and growing economy. Next Frame Construction understands the needs of homeowners and businesses in this dynamic community.",
+        "nearbyAreas": [
+          "Oildale",
+          "Rosedale",
+          "Lamont"
+        ]
+      },
+      {
+        "city": "Oildale",
+        "slug": "oildale-ca",
+        "state": "CA",
+        "content": "Next Frame Construction extends its expert handyman services to Oildale, California. We provide a full suite of home repair and improvement solutions to the residents of Oildale. Our team of experienced professionals is dedicated to providing top-notch workmanship and excellent customer service, ensuring that your home is always in its best condition.\n\nWe understand the specific needs of the Oildale community and are committed to delivering personalized service tailored to your unique requirements. Whether it's fixing a leaky faucet, installing new flooring, or tackling a larger renovation project, Next Frame Construction is your trusted partner for all your handyman needs in Oildale.",
+        "localContext": "Oildale is a close-knit community with a rich history rooted in the oil industry. Next Frame Construction is dedicated to serving the homeowners and businesses of Oildale with reliable and professional handyman services.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Rosedale",
+          "Shafter"
+        ]
+      },
+      {
+        "city": "Rosedale",
+        "slug": "rosedale-ca",
+        "state": "CA",
+        "content": "Next Frame Construction is pleased to offer our professional handyman services to the community of Rosedale, California. We understand the importance of maintaining a well-kept home, and we're here to assist with all your repair and improvement needs. Our team of skilled professionals is committed to providing high-quality workmanship and exceptional customer service.\n\nFrom minor repairs to major renovations, Next Frame Construction is equipped to handle a wide range of projects in Rosedale. We pride ourselves on our attention to detail, transparent pricing, and commitment to customer satisfaction. Let us help you enhance the beauty and functionality of your home.",
+        "localContext": "Rosedale is a growing community known for its family-friendly atmosphere and beautiful homes. Next Frame Construction is proud to serve the residents of Rosedale with reliable and professional handyman services.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Oildale",
+          "Shafter"
+        ]
+      },
+      {
+        "city": "Shafter",
+        "slug": "shafter-ca",
+        "state": "CA",
+        "content": "Next Frame Construction proudly serves the town of Shafter, California, providing top-quality handyman services to homeowners and businesses alike. We offer a comprehensive range of solutions, from minor repairs to complete renovations, ensuring that your property is always in excellent condition. Our team of skilled professionals is dedicated to delivering exceptional workmanship and outstanding customer service.\n\nWe understand the unique needs of the Shafter community and are committed to providing personalized service that meets your specific requirements. Whether you need help with plumbing, electrical work, carpentry, or any other home improvement task, Next Frame Construction is your trusted partner in Shafter.",
+        "localContext": "Shafter is a charming town with a strong sense of community and a thriving agricultural industry. Next Frame Construction is committed to serving the residents of Shafter with reliable and professional handyman services.",
+        "nearbyAreas": [
+          "Wasco",
+          "Rosedale",
+          "Bakersfield"
+        ]
+      },
+      {
+        "city": "Wasco",
+        "slug": "wasco-ca",
+        "state": "CA",
+        "content": "Next Frame Construction extends its expert handyman services to Wasco, California. We are committed to providing the residents of Wasco with reliable and affordable solutions for all their home repair and improvement needs. Our team of skilled professionals is dedicated to delivering exceptional workmanship and outstanding customer service.\n\nWe understand the importance of maintaining a well-kept home, and we're here to help you with everything from minor repairs to major renovations. Whether you need help with painting, drywall repair, or any other home improvement task, Next Frame Construction is your trusted partner in Wasco.",
+        "localContext": "Wasco is a growing city known for its agricultural heritage and strong community spirit. Next Frame Construction is proud to serve the residents of Wasco with reliable and professional handyman services.",
+        "nearbyAreas": [
+          "Shafter",
+          "Lost Hills",
+          "McFarland"
+        ]
+      },
+      {
+        "city": "McFarland",
+        "slug": "mcfarland-ca",
+        "state": "CA",
+        "content": "Next Frame Construction is pleased to offer our professional handyman services to the community of McFarland, California. We understand the importance of maintaining a safe and comfortable home, and we're here to assist with all your repair and improvement needs. Our team of skilled professionals is committed to providing high-quality workmanship and exceptional customer service.\n\nFrom minor repairs to major renovations, Next Frame Construction is equipped to handle a wide range of projects in McFarland. We pride ourselves on our attention to detail, transparent pricing, and commitment to customer satisfaction. Let us help you enhance the beauty and functionality of your home.",
+        "localContext": "McFarland is a small, family-oriented community with a strong agricultural base. Next Frame Construction is dedicated to providing affordable and reliable handyman services to the residents of McFarland.",
+        "nearbyAreas": [
+          "Delano",
+          "Wasco",
+          "Lost Hills"
+        ]
+      },
+      {
+        "city": "Delano",
+        "slug": "delano-ca",
+        "state": "CA",
+        "content": "Next Frame Construction is proud to offer its handyman services to the residents and businesses of Delano, California. From small repairs to larger home improvement projects, we are equipped to handle a wide variety of tasks. We prioritize quality workmanship and customer satisfaction, ensuring that every job is completed to the highest standards.\n\nAs a local business, we understand the needs of the Delano community. We strive to provide prompt, reliable, and affordable services. Whether you need help with plumbing, electrical work, painting, or any other home maintenance task, Next Frame Construction is here to assist you.",
+        "localContext": "Delano is a vibrant city in the San Joaquin Valley, known for its agricultural industry and strong community ties. Next Frame Construction understands the needs of homeowners and businesses in this thriving community.",
+        "nearbyAreas": [
+          "McFarland",
+          "Earlimart",
+          "Wasco"
+        ]
+      },
+      {
+        "city": "Lamont",
+        "slug": "lamont-ca",
+        "state": "CA",
+        "content": "Next Frame Construction is pleased to extend its handyman services to Lamont, California. We offer a comprehensive range of home repair and maintenance solutions to the residents of Lamont. Our team of experienced professionals is committed to providing top-notch workmanship and excellent customer service, ensuring that your home is always in its best condition.\n\nWe understand the specific needs of the Lamont community and are dedicated to delivering personalized service tailored to your unique requirements. Whether it's fixing a leaky roof, installing new windows, or tackling a larger renovation project, Next Frame Construction is your trusted partner for all your handyman needs in Lamont.",
+        "localContext": "Lamont is a small, but growing community located southeast of Bakersfield. Next Frame Construction is dedicated to serving the residents of Lamont with dependable and skilled handyman services.",
+        "nearbyAreas": [
+          "Arvin",
+          "Bakersfield",
+          "Weedpatch"
+        ]
+      },
+      {
+        "city": "Arvin",
+        "slug": "arvin-ca",
+        "state": "CA",
+        "content": "Next Frame Construction is proud to offer our handyman services to the residents and businesses of Arvin, California. We provide a wide range of repair and maintenance solutions to keep your property in top condition. Our skilled team is dedicated to delivering high-quality workmanship and exceptional customer service.\n\nWe understand the importance of having a reliable handyman you can trust. That's why we strive to provide prompt, efficient, and affordable services to the Arvin community. Whether you need help with plumbing, electrical work, or general home repairs, Next Frame Construction is here to assist you.",
+        "localContext": "Arvin is a primarily agricultural community located southeast of Bakersfield. Next Frame Construction is here to serve the residents of Arvin with dependable and skilled handyman services for all their home and business needs.",
+        "nearbyAreas": [
+          "Lamont",
+          "Weedpatch",
+          "Bakersfield"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Drywall Repair",
+        "text": "Next Frame Construction did an excellent job repairing a large hole in my living room wall. The texture matching was perfect, and you can't even tell there was ever any damage. Highly recommend!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "David B.",
+        "rating": 4,
+        "service": "Plumbing Repair",
+        "text": "I had a leaky faucet that was driving me crazy. Next Frame Construction came out quickly and fixed it without any issues. Professional and efficient service.",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Linda G.",
+        "rating": 5,
+        "service": "Painting Services",
+        "text": "Next Frame Construction painted my entire house, and it looks fantastic! The crew was very professional and paid close attention to detail. They even helped me choose the perfect colors.",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Robert L.",
+        "rating": 5,
+        "service": "Carpentry Services",
+        "text": "I needed some custom shelves built in my garage, and Next Frame Construction did an amazing job. The shelves are sturdy and well-built, and they perfectly fit the space. Great craftsmanship!",
+        "date": "2024-10-22"
+      },
+      {
+        "name": "Susan K.",
+        "rating": 4,
+        "service": "Fence Repair",
+        "text": "My fence was damaged in a recent windstorm, and Next Frame Construction repaired it quickly and effectively. The price was reasonable, and the service was excellent.",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "Michael P.",
+        "rating": 5,
+        "service": "Drywall Repair",
+        "text": "We had water damage in our bathroom and Next Frame Construction did a fantastic job repairing the drywall and painting. They were on time, professional, and the work was excellent. We would definitely use them again!",
+        "date": "2024-12-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Bakersfield Handyman | Next Frame",
+        "description": "Reliable handyman services in Bakersfield, CA. Home repairs, plumbing, electrical, painting, & more. Free estimates!"
+      },
+      "about": {
+        "title": "About Next Frame Construction",
+        "description": "Learn about Next Frame Construction, your trusted handyman in Bakersfield. Quality work, local commitment."
+      },
+      "services": {
+        "title": "Handyman Services in Bakersfield",
+        "description": "Next Frame Construction offers a wide range of handyman services in Bakersfield. See our services!"
+      },
+      "contact": {
+        "title": "Contact Next Frame Construction",
+        "description": "Contact Next Frame Construction for handyman services in Bakersfield. Get a free estimate today!"
+      },
+      "reviews": {
+        "title": "Next Frame Construction Reviews",
+        "description": "See what our customers are saying about Next Frame Construction's handyman services in Bakersfield."
+      },
+      "service-areas": {
+        "title": "Next Frame Service Areas",
+        "description": "Next Frame Construction provides handyman services in Bakersfield and surrounding areas."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "drywall-repair": "/images/service-drywall-repair.webp",
+      "plumbing-repair": "/images/service-plumbing-repair.webp",
+      "electrical-repair": "/images/service-electrical-repair.webp",
+      "painting": "/images/service-painting.webp",
+      "carpentry": "/images/service-carpentry.webp",
+      "fence-repair": "/images/service-fence-repair.webp"
+    },
+    "servicesResponsive": {
+      "drywall-repair": {
+        "src": "/images/service-drywall-repair.webp",
+        "srcset": "/images/service-drywall-repair-400w.webp 400w, /images/service-drywall-repair-800w.webp 800w, /images/service-drywall-repair-1200w.webp 1200w, /images/service-drywall-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "plumbing-repair": {
+        "src": "/images/service-plumbing-repair.webp",
+        "srcset": "/images/service-plumbing-repair-400w.webp 400w, /images/service-plumbing-repair-800w.webp 800w, /images/service-plumbing-repair-1200w.webp 1200w, /images/service-plumbing-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "electrical-repair": {
+        "src": "/images/service-electrical-repair.webp",
+        "srcset": "/images/service-electrical-repair-400w.webp 400w, /images/service-electrical-repair-800w.webp 800w, /images/service-electrical-repair-1200w.webp 1200w, /images/service-electrical-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "painting": {
+        "src": "/images/service-painting.webp",
+        "srcset": "/images/service-painting-400w.webp 400w, /images/service-painting-800w.webp 800w, /images/service-painting-1200w.webp 1200w, /images/service-painting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "carpentry": {
+        "src": "/images/service-carpentry.webp",
+        "srcset": "/images/service-carpentry-400w.webp 400w, /images/service-carpentry-800w.webp 800w, /images/service-carpentry-1200w.webp 1200w, /images/service-carpentry.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-repair": {
+        "src": "/images/service-fence-repair.webp",
+        "srcset": "/images/service-fence-repair-400w.webp 400w, /images/service-fence-repair-800w.webp 800w, /images/service-fence-repair-1200w.webp 1200w, /images/service-fence-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
